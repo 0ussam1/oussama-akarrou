@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="assets/oussama.png" alt="Oussama Akarrou" width="200" style="border-radius: 50%; box-shadow: 0 0 20px rgba(233,69,96,0.5);" />
+  <img src="assets/images/oussama.png" alt="Oussama Akarrou" width="200" style="border-radius: 50%; box-shadow: 0 0 20px rgba(233,69,96,0.5);" />
   <h1>🚀 Oussama Akarrou</h1>
   <h3>AI & Data Science | Creative Designer | Beatmaker</h3>
   <p>
